@@ -1,0 +1,12 @@
+{
+  "name": "the-date-crew-assessment",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The Date Crew - Product & Tech Generalist Assessment & MatchGuard Prototype",
+  "scripts": {
+    "dev": "npm --prefix prototype run dev",
+    "build": "npm --prefix prototype run build",
+    "preview": "npm --prefix prototype run preview",
+    "install:all": "npm --prefix prototype install"
+  }
+}
